@@ -1,0 +1,5 @@
+The question is to find the letters and words which contains, starts, ends with specific letters.
+Hence I am writing this text to use this in my program. Apple pie is good.**
+I need some letters or words which starts with Q,q,a,e,i,o,u. a,e,i,o,u are vowels and rest all letters are constants.
+I passed law bar last year and trying to help my friend to clear the bar exam. Bannana pie is not good.
+I asked my friend to visit Bazar to get some groceries.I like pies but only apple and bananna pie.
